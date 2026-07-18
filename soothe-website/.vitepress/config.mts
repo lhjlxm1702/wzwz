@@ -1,19 +1,30 @@
-﻿import { defineConfig } from 'vitepress'
+import { defineConfig } from 'vitepress'
 import fs from 'fs'
 import path from 'path'
+import matter from 'gray-matter'
 
-// 动态读取 scl 目录中的所有 note-*.md 文件
+// 动态读取 scl 目录中的所有 note-*.md 文件，并提取标题
 function getSidebarItems() {
   const sclDir = path.join(__dirname, '../scl')
   const files = fs.readdirSync(sclDir)
     .filter(file => file.match(/^note-\d+\.md$/))
-    .sort()
+    .sort((a, b) => {
+      const numA = parseInt(a.match(/\d+/)[0])
+      const numB = parseInt(b.match(/\d+/)[0])
+      return numA - numB
+    })
   
   return [
-    { text: '目录', link: '/scl/' },
+    { text: '📑 目录', link: '/scl/' },
     ...files.map(file => {
+      const filePath = path.join(sclDir, file)
+      const content = fs.readFileSync(filePath, 'utf-8')
+      const { data } = matter(content)
       const slug = file.replace('.md', '')
-      const title = `笔记 ${slug.replace('note-', '')}`
+      const number = slug.replace('note-', '')
+      
+      // 从 frontmatter 读取标题，若无则使用默认
+      const title = data.title ? `📖 第${number}篇：${data.title}` : `笔记 ${number}`
       return { text: title, link: `/scl/${slug}` }
     })
   ]
@@ -21,7 +32,7 @@ function getSidebarItems() {
 
 export default defineConfig({
   title: "Soothe AI 舒心婴语",
-  description: "AI翻译婴儿哭声，智能育婴育儿助手",
+  description: "AI翻译婴儿哭声，智能育婴育儿助手，帮助新手父母、年轻宝妈宝爸解读宝宝饥饿、困倦、腹痛、胀气等需求",
   lang: 'zh-CN',
   ignoreDeadLinks: true,
 
@@ -67,12 +78,11 @@ export default defineConfig({
       { text: '🥉注册/登陆', link: '/login' },
     ],
 
-
     // 添加侧边栏配置    
     sidebar: {
       '/scl/': [
         {
-          text: '母婴护理实操录',
+          text: '🏠 母婴护理实操录',
           items: getSidebarItems()
         }
       ]
