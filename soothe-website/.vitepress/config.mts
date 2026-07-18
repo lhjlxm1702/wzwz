@@ -1,6 +1,14 @@
 ﻿import { defineConfig } from 'vitepress'
 import fs from 'fs'
 import path from 'path'
+import matter from 'gray-matter' // 添加 gray-matter 库来解析 Markdown frontmatter
+
+function getSidebarItems() {
+  // ... 读取文件
+  const { data } = matter(content)  // 提取 frontmatter
+  const title = data.title ? `📖 第${number}篇：${data.title}` : `笔记 ${number}`
+  return { text: title, link: `/scl/${slug}` }
+}
 
 // 动态读取 scl 目录中的所有 note-*.md 文件
 function getSidebarItems() {
