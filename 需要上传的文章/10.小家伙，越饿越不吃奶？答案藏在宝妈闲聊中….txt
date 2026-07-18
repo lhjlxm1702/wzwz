@@ -1,9 +1,4 @@
----
-title: 
-description: 
----
-
-# 小家伙，越饿越不吃奶？答案藏在宝妈闲聊中…
+《小家伙，越饿越不吃奶？答案藏在宝妈闲聊中…》
 
 前年初春，接到育婴员的电话：
 “刘老师，宝宝现在半岁了，
@@ -92,14 +87,8 @@ E(Eating)：拒奶行为明显，但原因不明。
 💬评论区聊聊：
 你家孩子“不管什么都往嘴巴里塞”，大概是几个月？你制止过吗？
 
----
-<div style="text-align: center; font-size: 20px; color: var(--vp-c-brand); font-weight: bold; margin-bottom: 20px;">
-  <div style="margin-bottom: 8px;">给爱一个明确答案</div>
-</div>
+#宝宝哭闹 #鹅口疮 #口欲期 #6个月宝宝 #新手爸妈 #婴儿护理 #育婴干货 #育婴员 #拒奶 #母婴护理 #育儿经验howto @HOWTO薯
 
-<div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;"> 
-  <a href="https://www.pgyer.com/shuxinyingyu" target="_blank">
-    <img src="/pgy_QRCode.png" alt="婴儿哭声翻译软件二维码" width="160" style="margin: 0 auto 10px auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);" />
-  </a>
-  <span style="font-size: 14px; color: var(--vp-c-text-2);">安卓端限时免费体验</span>
-</div>
+置顶评论
+婴儿哭闹四维速查法(S.A.D.E.)完整版，在我主页置顶笔记中，需要的可以去看。
+⚠️以上非医疗诊断，若宝宝持续哭闹并伴有发热、精神差或呼吸异常，请及时就医。

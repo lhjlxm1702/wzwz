@@ -1,9 +1,5 @@
----
-title: 
-description: 
----
+《老婆发现，我手机收藏6000多…》
 
-# 老婆发现，我手机收藏6000多…
 前几天，老婆翻我手机，
 愣了两秒，抬头问我：
 "你这么…怪癖吗？"😳
@@ -51,14 +47,9 @@ description:
 
 下次聊聊：我，一个老直男，在母婴圈混了17年，最怕的一个字……
 
----
-<div style="text-align: center; font-size: 20px; color: var(--vp-c-brand); font-weight: bold; margin-bottom: 20px;">
-  <div style="margin-bottom: 8px;">给爱一个明确答案</div>
-</div>
+💬评论区聊聊
+你家娃大哭时，你是猜的吗？猜对的多？还是猜错的多？
+#新手爸妈 #宝宝哭闹 #育儿经验 #婴语翻译 #南昌家政 #AI育儿 #舒心婴语
 
-<div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;"> 
-  <a href="https://www.pgyer.com/shuxinyingyu" target="_blank">
-    <img src="/pgy_QRCode.png" alt="婴儿哭声翻译软件二维码" width="160" style="margin: 0 auto 10px auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);" />
-  </a>
-  <span style="font-size: 14px; color: var(--vp-c-text-2);">安卓端限时免费体验</span>
-</div>
+第一条评论：📌所有哭声样本均在家长知情同意下收集，做了去标识化处理（不含姓名/地址/面部），仅用于模型训练与产品优化。
+⚠️本APP为育儿 AI 辅助参考，不替代医生诊断；宝宝有任何异常哭声，请立即就医。

@@ -1,9 +1,4 @@
----
-title: 
-description: 
----
-
-# 婴儿哭不停？别慌！先查这4件事
+《婴儿哭不停？别慌！先查这4件事》
 
 宝宝一哭，
 特别是哭不停时，
@@ -78,14 +73,12 @@ description:
 用这套方法，6分钟找到，
 宝宝哭闹半小时的原因。
 
----
-<div style="text-align: center; font-size: 20px; color: var(--vp-c-brand); font-weight: bold; margin-bottom: 20px;">
-  <div style="margin-bottom: 8px;">给爱一个明确答案</div>
-</div>
+💬评论区聊聊——
+你家娃哭不停时，你最先会查哪一项？A先喂奶、B先抱起来、C先换尿布、D先上网查
 
-<div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;"> 
-  <a href="https://www.pgyer.com/shuxinyingyu" target="_blank">
-    <img src="/pgy_QRCode.png" alt="婴儿哭声翻译软件二维码" width="160" style="margin: 0 auto 10px auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);" />
-  </a>
-  <span style="font-size: 14px; color: var(--vp-c-text-2);">安卓端限时免费体验</span>
-</div>
+#宝宝哭闹 #新手爸妈 #婴儿护理 #宝宝哭声 #新生儿护理 #育婴干货 #宝妈必看 #婴儿哭闹怎么办 #育婴师 #母婴护理 #婴儿安抚
+
+宝宝哭闹时，可按“婴儿哭闹四维速查法(S.A.D.E.)”排查哭闹原因：
+宝宝几个月？哭了多久？上次吃奶是什么时候？尿布、便便、屁屁有没有异常？
+婴儿哭闹四维速查法(S.A.D.E.)，只是家庭生活观察，不是医学诊断。
+⚠如果宝宝出现发热、精神差、呼吸异常、持续呕吐、哭声突然尖锐异常，或者哭闹明显和平时不一样，请及时就医。

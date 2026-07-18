@@ -1,9 +1,4 @@
----
-title: 
-description: 
----
-
-# 哭了半小时，第2遍排查才找到真相
+《3月龄男宝哭了半小时，第2遍排查才找到真相》
 
 那天深夜，都过了23点，
 手机突然炸响，
@@ -74,14 +69,11 @@ OK了，原因躲在这❗
 
 下一篇，我们分享一个“纸尿裤害得婴儿哭闹一整个早上”的真实案例。
 
----
-<div style="text-align: center; font-size: 20px; color: var(--vp-c-brand); font-weight: bold; margin-bottom: 20px;">
-  <div style="margin-bottom: 8px;">给爱一个明确答案</div>
-</div>
+💬评论区聊聊——
+你家有没有遇到过类似情况：节假日亲戚多、或者闺蜜同学结伴来家，宝宝当晚就会哭闹特别厉害？
 
-<div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;"> 
-  <a href="https://www.pgyer.com/shuxinyingyu" target="_blank">
-    <img src="/pgy_QRCode.png" alt="婴儿哭声翻译软件二维码" width="160" style="margin: 0 auto 10px auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);" />
-  </a>
-  <span style="font-size: 14px; color: var(--vp-c-text-2);">安卓端限时免费体验</span>
-</div>
+#宝宝哭闹 #闹觉 #3个月宝宝 #新手爸妈 #婴儿护理 #宝宝睡眠 #育婴干货 #过度疲劳 #节假日育儿 #母婴护理 #育儿经验howto @HOWTO薯
+
+置顶评论
+婴儿哭闹四维速查法(S.A.D.E.)完整版，在我主页置顶笔记中，需要的可以去看。
+⚠️以上非医疗诊断，若宝宝持续哭闹并伴有发热、精神差或呼吸异常，请及时就医。

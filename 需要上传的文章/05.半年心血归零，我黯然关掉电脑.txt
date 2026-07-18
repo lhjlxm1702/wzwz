@@ -1,9 +1,4 @@
----
-title: 
-description: 
----
-
-# 半年心血归零，我黯然关掉电脑
+《半年心血归零，我黯然关掉电脑》
 
 去年，临近元旦的一个晚上，
 终于敲打出来了——
@@ -97,14 +92,11 @@ description:
 不仅脱胎换骨，
 而且完成了雏形的蜕变。
 
----
-<div style="text-align: center; font-size: 20px; color: var(--vp-c-brand); font-weight: bold; margin-bottom: 20px;">
-  <div style="margin-bottom: 8px;">给爱一个明确答案</div>
-</div>
+下次聊聊，舍不得买显卡的我，决定直接砸美金（年缴的哦）。
 
-<div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;"> 
-  <a href="https://www.pgyer.com/shuxinyingyu" target="_blank">
-    <img src="/pgy_QRCode.png" alt="婴儿哭声翻译软件二维码" width="160" style="margin: 0 auto 10px auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);" />
-  </a>
-  <span style="font-size: 14px; color: var(--vp-c-text-2);">安卓端限时免费体验</span>
-</div>
+💬 评论区聊聊——
+你有没有做过很“倔”的事？快做完了又要从头开始，你是如何硬抗过来的呢？
+
+#阿里云 #AI创业踩坑 #APP开发 #婴语翻译 #光头男 #南昌月嫂 #舒心婴语
+
+置顶评论：⚠️本APP为育儿 AI 辅助参考，不替代医生诊断；宝宝有任何异常哭声，请立即就医。

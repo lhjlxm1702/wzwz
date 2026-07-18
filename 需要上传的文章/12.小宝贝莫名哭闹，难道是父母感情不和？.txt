@@ -1,9 +1,4 @@
----
-title: 
-description: 
----
-
-# 小宝贝莫名哭闹，难道与父母感情不和有关？
+《小宝贝莫名哭闹，难道与父母感情不和有关？》
 
 在春节，大年初四的假日里，
 接到育婴员的咨询电话。
@@ -98,15 +93,11 @@ E(Eating)：每餐进食量不足。
 	
 💬评论区聊聊：
 当你心情不好的时候，你娃会不会变得格外爱哭闹、难安抚呢？
+	
+#孩子哭闹  #萌芽期  #8个月宝宝  #母乳喂养  #新手爸妈  #分离焦虑  #泌乳  #育婴员  #育儿经验howto  @HOWTO薯
 
----
-<div style="text-align: center; font-size: 20px; color: var(--vp-c-brand); font-weight: bold; margin-bottom: 20px;">
-  <div style="margin-bottom: 8px;">给爱一个明确答案</div>
-</div>
-
-<div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;"> 
-  <a href="https://www.pgyer.com/shuxinyingyu" target="_blank">
-    <img src="/pgy_QRCode.png" alt="婴儿哭声翻译软件二维码" width="160" style="margin: 0 auto 10px auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);" />
-  </a>
-  <span style="font-size: 14px; color: var(--vp-c-text-2);">安卓端限时免费体验</span>
-</div>
+针对这个案例，特别补充强调两点——
+❶妈妈情绪不好，不一定必然导致泌乳量下降，睡眠、饮食、喂养方式等因素都可能影响母乳的泌乳。
+❷8个月孩子的哭，很少是单一原因，家庭氛围、分离焦虑、对照护者情绪的敏感，都值得关注。
+另外，婴儿哭闹四维速查法(S.A.D.E.)完整版，在我主页置顶笔记中，需要的可以去看。
+⚠️以上非医疗诊断，若宝宝持续哭闹并伴有发热、精神差或呼吸异常，请及时就医。

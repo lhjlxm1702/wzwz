@@ -1,8 +1,27 @@
 ﻿import { defineConfig } from 'vitepress'
+import fs from 'fs'
+import path from 'path'
+
+// 动态读取 scl 目录中的所有 note-*.md 文件
+function getSidebarItems() {
+  const sclDir = path.join(__dirname, '../scl')
+  const files = fs.readdirSync(sclDir)
+    .filter(file => file.match(/^note-\d+\.md$/))
+    .sort()
+  
+  return [
+    { text: '目录', link: '/scl/' },
+    ...files.map(file => {
+      const slug = file.replace('.md', '')
+      const title = `笔记 ${slug.replace('note-', '')}`
+      return { text: title, link: `/scl/${slug}` }
+    })
+  ]
+}
 
 export default defineConfig({
   title: "Soothe AI 舒心婴语",
-  description: "AI翻译婴儿哭声，智能育婴育儿助手，帮助新手父母、年轻宝妈宝爸解读宝宝饥饿、困倦、腹痛、胀气等需求",
+  description: "AI翻译婴儿哭声，智能育婴育儿助手",
   lang: 'zh-CN',
   ignoreDeadLinks: true,
 
@@ -14,10 +33,7 @@ export default defineConfig({
   // 2. 全局头部配置（我们把所有的东西都合并到这一个 head 里）
   head: [
     // 第一个包裹：百度统计代码
-    [
-      'script',
-      {},
-      `
+    ['script', {}, `
       var _hmt = _hmt || [];
       (function() {
         var hm = document.createElement("script");
@@ -25,11 +41,12 @@ export default defineConfig({
         var s = document.getElementsByTagName("script")[0]; 
         s.parentNode.insertBefore(hm, s);
       })();
-      `
-    ],
-    // 第二个包裹：全局注入 SEO 关键词标签
+    `],    
+    
+    // 第二个包裹：全局注入 SEO 关键词标签    
     ['meta', { name: 'keywords', content: '婴儿哭声翻译,婴儿哭声识别,听懂宝宝哭声,Soothe AI,新手父母,智能育儿,宝宝为什么哭' }],
-    // 第三个包裹：网站图标
+    
+    // 第三个包裹：网站图标    
     ['link', { rel: 'icon', href: '/favicon.png' }] 
   ],
 
@@ -49,20 +66,14 @@ export default defineConfig({
       { text: '📞联系方式', link: '/contact' },
       { text: '🥉注册/登陆', link: '/login' },
     ],
-    
-    // 添加侧边栏配置
+
+
+    // 添加侧边栏配置    
     sidebar: {
       '/scl/': [
         {
           text: '母婴护理实操录',
-          items: [
-            { text: '目录', link: '/scl/' },
-            { text: '笔记1', link: '/scl/note-001' },
-            { text: '笔记2', link: '/scl/note-002' },
-            { text: '笔记3', link: '/scl/note-003' },
-                        { text: '99999999', link: '/scl/note-004' },
-            // 根据需要继续添加更多页面
-          ]
+          items: getSidebarItems()
         }
       ]
     },
