@@ -114,12 +114,12 @@ margin-bottom: 30px;
 <div style="border-top: 1px solid var(--vp-c-divider); padding: 12px 0; text-align: center; font-size: 8px; line-height: 2; color: var(--vp-c-text-2); margin-top: 40px; width: 100%;">
   <div>
     ICP备案号：
-    <a href="https://beian.miit.gov.cn" target="_blank" rel="noopener" style="color: var(--vp-c-brand); text-decoration: none;">ICP2025073122</a>
+    <a href="https://beian.miit.gov.cn" target="_blank" rel="noopener" style="color: var(--vp-c-brand); text-decoration: none;">ICP2026012993</a>
   </div>
   <div>
     <img src="/gongan.png" alt="警徽" style="width: 14px; height: 14px; vertical-align: -2px; margin-right: 4px; display: inline-block;" />
     网站联网备案号：
-    <a href="https://beian.mps.gov.cn" target="_blank" rel="noopener" style="color: var(--vp-c-brand); text-decoration: none;">赣公网安备36010202000837号</a>
+    <a href="https://beian.mps.gov.cn" target="_blank" rel="noopener" style="color: var(--vp-c-brand); text-decoration: none;">赣公网安备36010202000868号</a>
   </div>
   <div style="margin-top: 4px;">Copyright © 2025 南昌市东湖区金宝贝职业月嫂中心</div>
 </div>
