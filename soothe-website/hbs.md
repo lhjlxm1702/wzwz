@@ -43,7 +43,22 @@ import RequireAuth from './.vitepress/components/RequireAuth.vue'
 |026|兒童發展1~2岁|14.34 M|[点击下载]( https://pan.baidu.com/s/1X-lZw41tCvTSYIiK8dY92A?pwd=1702)|
 |027|[论文]大班发展迟缓儿童视动整合、精细动…|1.3 M|[点击下载]( https://pan.baidu.com/s/1yn7U7nOX2bdDn-YsmvXQRQ?pwd=1702)|
 |028|[PPT]婴儿心理学|2.41 M|[点击下载]( https://pan.baidu.com/s/1zWNmDSQ0ggBRLxrUGPV7PQ?pwd=1702)|
-
+|029|崔玉涛谈育儿套装|24 M|[点击下载]( https://pan.baidu.com/s/1aGE8Wmn_yITHPP224bHDrw?pwd=1702)|
+|030|出生后即刻的肌肤接触|3.72 M|[点击下载]( https://pan.baidu.com/s/1-V2vnBB9tK7bn0B9A23u6g?pwd=1702)|
+|031|发展的里程碑阶段|2.65 M|[点击下载]( https://pan.baidu.com/s/12pCtZdePH9OEY2f1Ao4mwg?pwd=1702)|
+|032|3岁前吃对食物，孩子一生好体质|5.83 M|[点击下载]( https://pan.baidu.com/s/1qNNr4IsYfiANsyu5q38NDA?pwd=1702)|
+|033|坐好月子与新生儿护理600问|3.06 M|[点击下载]( https://pan.baidu.com/s/1Cbl_BByXEFA7ZT9R2MXy3Q?pwd=1702)|
+|034|食育要点食育要点|13.7 M|[点击下载]( https://pan.baidu.com/s/1j6cm4E4Qt-nroosIGcVHWw?pwd=1702)|
+|035|怀孕就得讲究吃：长胎不长肉，母婴都健康|5.48 M|[点击下载]( https://pan.baidu.com/s/16VFAscnxMGFJFzjKhsZqFw?pwd=1702)|
+|036|0~6岁儿童发育行为评估量表|1.82 M|[点击下载]( https://pan.baidu.com/s/1NlBmmK2UVErwup5CA6wzwQ?pwd=1702)|
+|037|不可不慎乳房問題|1.44 M|[点击下载]( https://pan.baidu.com/s/1fghUchqifxnBETRIKTr5jg?pwd=1702)|
+|038|成功哺餵母乳之護理經驗|2.36 M|[点击下载]( https://pan.baidu.com/s/1etlXlA-xgF9LdeJTOlWxGw?pwd=1702)|
+|039|坐月子调理良方|1.5 M|[点击下载]( https://pan.baidu.com/s/1SUkbkpGE6ClVafNJOkHFNA?pwd=1702)|
+|040|新生兒黃疸|2.04 M|[点击下载]( https://pan.baidu.com/s/1zxIfwjTM_0qh92ZLvzfzdw?pwd=1702)|
+|041|新檬生活月子餐|132 M|[点击下载]( https://pan.baidu.com/s/1H-y4IXw3Wn-aAztGxtnrew?pwd=1702)|
+|042|亲子系列|40.3 M|[点击下载]( https://pan.baidu.com/s/12TqiJ_YLH793iyH9EnywwQ?pwd=1702)|
+|043|臺北市學齡前兒童發展檢核表|31.6 M|[点击下载]( https://pan.baidu.com/s/1BdUf2G8OyBthE-9aRtBYWg?pwd=1702)|
+|044|美国儿科学会育儿百科|27.9 M|[点击下载]( https://pan.baidu.com/s/1vVPWoi7T2OGGsOfMj-EyzA?pwd=1702)|
 
 </RequireAuth>
 
